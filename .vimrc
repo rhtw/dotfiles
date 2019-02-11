@@ -1,7 +1,4 @@
-
-"""""""""""
-" Delete me
-"""""""""""
+#add userless by hunter
 
 set nocompatible              " be iMproved, required
 filetype off                  " required
