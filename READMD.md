@@ -1,0 +1,7 @@
+# Dotfiles
+
+## Pratices Only
+
+- gitconfig
+
+
